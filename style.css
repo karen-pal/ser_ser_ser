@@ -83,4 +83,7 @@ html{position:absolute;
 }
 }
 
-
+#lang {
+  display: block;
+  text-align: center;
+}
